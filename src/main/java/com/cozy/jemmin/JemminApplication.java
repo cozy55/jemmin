@@ -1,13 +1,13 @@
-package com.cozy.gemmin;
+package com.cozy.jemmin;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class GemminApplication {
+public class JemminApplication {
 
     public static void main(String[] args) {
-        SpringApplication.run(GemminApplication.class, args);
+        SpringApplication.run(JemminApplication.class, args);
     }
 
 }

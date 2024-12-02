@@ -1,10 +1,10 @@
-package com.cozy.gemmin;
+package com.cozy.jemmin;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class GemminApplicationTests {
+class JemminApplicationTests {
 
     @Test
     void contextLoads() {
